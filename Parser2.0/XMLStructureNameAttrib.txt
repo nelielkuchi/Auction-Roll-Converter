@@ -1,0 +1,520 @@
+[Command: python -u 'C:\Users\Gina\Documents\Master Thesis\Programming\Parser2.0\parser1.py']
+{'type': 'person'}
+{'type': 'person', 'reg': 'Heijns, Anna'}
+{'type': 'person', 'reg': 'Waal de oude, Jan de'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Bouton, Slammat van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Kust, Philip van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Fortuijn van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Samboua, Achillis van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Aron van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Samboua, Gallap van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Ternaten, Dappat van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Madagascar, Jacob van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Absalon van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Phenus van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Matthijs van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Leander van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Aaron van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, April van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, April van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Balij, Manilie van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Samboua, Jasson van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Ternaten, October van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Madagascar, Hector van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Baatjoe van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Moses van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Lakeij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Harlequin van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Macassar, Adonis van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Madagascar, Jochem van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Nias, Malatie van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Dina van', 'role': 'slave'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Waal, Willem de'}
+{'type': 'person', 'reg': 'Macassar, Satoo van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Schalker, Casper'}
+{'type': 'person', 'reg': 'Bengalen, December van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, April van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Schalker, Casper'}
+{'type': 'person', 'reg': 'Caab, Flora van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Emmenes, Cornelia van'}
+{'type': 'null', 'role': 'real_estate'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Boegies, September van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Joumat van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Cupido van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Dijk, Burgert van'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Madagascar, Maart van', 'role': 'slave'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Dijk, Burgert van'}
+{'type': 'person', 'reg': 'Dijk, Burgert van'}
+{'type': 'person', 'reg': 'Caab, Hendrik van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Dijk, Burgert van'}
+{'type': 'person', 'reg': 'Roode, Jan Christiaan'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Roode, Jan Christiaan'}
+{'type': 'person', 'reg': 'Roode, Johan Christiaan'}
+{'type': 'person', 'reg': 'Caab, Lea van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Roselijn van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, David van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Louw, Johannes Pietersz:'}
+{'type': 'person', 'reg': 'Mosambicque, Jannuarij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Madagascar, Piet van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Madagascar, Valentijn van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Madagascar, Jacob van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Timor, April van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Macassar, Lijer van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Maart van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Julij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Augustus van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Mattijs van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Augustus van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Maart van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Maart van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Rachel van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Hendrina van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Adonis van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Martha van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Jephta van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Louw, Johannes Pietersz:'}
+{'type': 'person', 'reg': 'Erasmus, Catharina'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Caab, Petronella van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Caatje van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Lena van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Erasmus, Catharina'}
+{'type': 'person', 'reg': 'Caab, Jephtha van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Toit de oude, Stephanus du'}
+{'type': 'person', 'reg': 'Caab, Piet van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, David van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Marthinis van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Adam van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Ceesar van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, April van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Sara van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Piet van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Diana van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Cupido van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, David van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Rachel van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Sanna van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Lea van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Candasa van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Diana van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Abraham van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Appelon van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Toit, Steeven du'}
+{'type': 'person', 'reg': 'Schott, Johan Nicolaas'}
+{'type': 'null', 'role': 'real_estate'}
+{'type': 'geographical'}
+{'type': 'null', 'role': 'real_estate'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Bengalen, April van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Anthonij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Patientie van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Samboua, Cupido van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Dol van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Schott, Johan Nicolaas'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Caab, Alexander van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Gallant van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Macassar, Passerie van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, October van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, October van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Anthonij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Pedro van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Philis van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Jannuarij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, April van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Batavia, November van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Slammat van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Samboua, Pieter van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, April van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Philander van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Timor, Timor van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bouton, August van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Macassar, Talij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Jacob van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Madagascar, Maart van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Malacca, Domingo van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Nias, Wimpel van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Madagascar, Jannuarij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Batavia, Domingo van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Jannuarij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Julij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Tawar van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Timor, Baatjoe van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Lakkeij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Julij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Bastiaan van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Titus van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Lakkoeij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Macassar, Slammat van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Macassar, Mentor van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Macassar, Hercules van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Romana van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Clarinda van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Rosa van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Soenting van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Timor, Fortuijn van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Schott, Johan Nicolaas'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Boegies, Jasson van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Westcust, Onverwagt van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Samboua, Bapatoea van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Leander van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Fortuijn van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Frans van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Pasop van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Ploetjong van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Malacca, Domingo van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Java, Cassander van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Dina van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Jan van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Eva van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Carolus van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, David van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Februarij van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Lucas van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Macassar, Cupido van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Theresia van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Schot, Johan Nicolaas'}
+{'type': 'person', 'reg': 'Schott, Johan Nicolaas'}
+{'type': 'person', 'reg': 'Nias, September van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Schot, Johan Nicolaas'}
+{'type': 'person', 'reg': 'Mallabar, August van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Schott, Johan Nicolaas'}
+{'type': 'person', 'reg': 'Caab, Adam van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Schot, Johan Nicolaas'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Emmenes, Roeloff van'}
+{'type': 'person', 'reg': 'Emmenes, Alletta van'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Madagascar, Verlee van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Meij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Ni�l, Rachel'}
+{'type': 'person', 'reg': 'Boegies, Domingo van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bouton, Pendik van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Fortuijn van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabar, Leander van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Rosetta van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Griet van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Adam van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Eva van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Lena van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Dirk van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Truij van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Jannetje van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Anna van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Philida van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Ni�l, Rachel'}
+{'type': 'person', 'reg': 'F[r]aij, Pieter'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Meijer, Jan Godlieb'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Louw, Johannes Jansz:'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Caab, Isacq van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, David van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Persie, Leander van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bougies, October van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabaar, Galland van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bougies, April van', 'role': 'slave'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Vivi�, Maria'}
+{'type': 'person', 'reg': 'Caab, October van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Harmanus van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Batavia, April van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Batavia, Maij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Abraham van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, September van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Rosetta van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Appeloon van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Constans van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Zaaijman, Cornelis'}
+{'type': 'person', 'reg': 'Zaaijman, Cornelis'}
+{'type': 'person', 'reg': 'Bengalen, Alexander van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegis, December van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Olivier, Claas'}
+{'type': 'person', 'reg': 'Smit de oude, Erasmus'}
+{'type': 'person', 'reg': 'Mallabaar, Cupido van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bougies, September van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Smith, Erasmus'}
+{'type': 'person', 'reg': 'Boegis, Joemat van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Arendsz:, Dirk'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Greef, Pieter'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Couchin, Fortuijn van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Timor, Parmant van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Ternaten, Rosetta van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mulder, Roedolf Ditmar'}
+{'type': 'person', 'reg': 'Mallabaar, Coridon van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Kerken, Maria Cicilia van'}
+{'type': 'person', 'reg': 'Nieuwoud, Jan Harmensz:'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Caab, Gerrit van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Julij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bougies, October van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabaar, December van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengaalen, November van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengaalen, Cupido van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bougies, Jacob van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Sophia van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Sabina van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Candasa van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Luijt, Maria'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Samboua, Joumat van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Ambon, Gedult van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Nias, Calister van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Villiers de Jonge, David de'}
+{'type': 'person', 'reg': 'Maraijs, Sarel'}
+{'type': 'person', 'reg': 'Lubbe, Johanna Maria'}
+{'type': 'person', 'reg': 'Wilkens, Johanna'}
+{'type': 'person', 'reg': 'Janssen, Paulus'}
+{'type': 'person', 'reg': 'Jansen, Paulus'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Jansen, Paulus'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Combrink, Jan'}
+{'type': 'person', 'reg': 'Forie, Sara'}
+{'type': 'null', 'role': 'real_estate'}
+{'type': 'person', 'reg': 'Ternate, Quipedo van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Guarde, Susanna'}
+{'type': 'person', 'reg': 'Maccassar, Appollos van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabaar, September van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Philida van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Altelaat van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Eva van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Batavia, Fortuijn van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Brits de oude, Cornelis'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Maccassar, Alie van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Gildenhuijsen, Hendrik'}
+{'type': 'null', 'role': 'real_estate'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Siam, Gedult van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Maccasser, Onton van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Redecker, Jan Arend'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Malacca, Geduld van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Swart Jansz:, Hendrik'}
+{'type': 'null', 'role': 'real_estate'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Madagsscar, Pieter van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabaar, August van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Saurman de jonge, Urbanus'}
+{'type': 'person', 'reg': 'Madagascar, Malgas van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mosambicque, Salomon van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Engelsman van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bougies, Hercules van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Sasemijn van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Jannuarij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, April van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Hartog, Casper'}
+{'type': 'person', 'reg': 'Baron van Knuth, Fredrik Christoffel'}
+{'type': 'person', 'reg': 'Cromhoud, Sara Margaretha'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Wijk de oude, Willem van'}
+{'type': 'person', 'reg': 'Batavia, Januarij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Veldman, Jan Hendrik'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'null', 'role': 'real_estate'}
+{'type': 'null', 'role': 'real_estate'}
+{'type': 'person', 'reg': 'Bengalen, Claas van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabaar, Moses van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabaar, November van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Burgers, Jacobus'}
+{'type': 'person', 'reg': 'Eeden,  Judith van'}
+{'type': 'person', 'reg': 'Veldman, Jan Hendrik'}
+{'type': 'person', 'reg': 'Brits, Roedolff'}
+{'type': 'null', 'role': 'real_estate'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Heerden, Hendrik van'}
+{'type': 'person', 'reg': 'Lategaan, Anna'}
+{'type': 'null', 'role': 'real_estate'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Madagascar, Frans van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Asa van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Ameli van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Heijlon, Anna'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Madagascar, Lena van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Rooijen, Alletta van'}
+{'type': 'person', 'reg': 'Sambuwa, Januarij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Dam van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Burgers, Jacobus'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Batavia, Lena van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Timor, October van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Burgers, Jacobus'}
+{'type': 'person', 'reg': 'Abel, Carel Fredrik'}
+{'type': 'person', 'reg': 'Mallabaar, Forthuijn van', 'role': 'slave'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Gast, David'}
+{'type': 'person', 'reg': 'Gast, Jurriaan David'}
+{'type': 'null', 'role': 'real_estate'}
+{'type': 'person', 'reg': 'Bengalen, Julij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Gast, [Jurriaan] David'}
+{'type': 'person', 'reg': 'Gast, Jurriaan David'}
+{'type': 'person', 'reg': 'Gast, Jurriaan David'}
+{'type': 'person', 'reg': 'Janssen, Zirke'}
+{'type': 'person', 'reg': 'Janssen, Zirke'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Merwe, Schalk Jacobsz: van der'}
+{'type': 'person', 'reg': 'Merwe,  Schalk Jacobsz: van der'}
+{'type': 'person', 'reg': 'Erasmus, Maria Elizabeth'}
+{'type': 'null', 'role': 'real_estate'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Caab, Adonus van de', 'role': 'slave'}
+{'type': 'null', 'role': 'real_estate'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Caab, Steijn van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Andries van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Hartog, Paulus'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Bougies, Cesar van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Madura, David van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Ziek, Anna Margaretha'}
+{'type': 'person', 'reg': 'Caab, Fergelegen van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Arend van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Jannetje van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Rogiers, Johanna'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Macassar, Ontong van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Ceijlon, Maij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Mosis van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Maccassar, Baatjoe van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Clarinda van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Candasa van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Carolus van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Maccassar, Regina van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Radie van de', 'role': 'slave'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Heijde, Anna Margaretha van der'}
+{'type': 'person', 'reg': 'Caab, Piet Snap van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Anthonij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bougies, Beroe van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Blanckenberg, Johannes Henricus'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Mallabaar, Galant van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabaar, Passensie van', 'role': 'slave'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Bengalen, Cupido van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Souratte, Cesar van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Ceijlon, December van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabaar, Anthonij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Januarij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Mosis van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mandaar, Fasitus van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Leonora van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengale, Sophia van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Caab, Pamela van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengale, Sophia van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bougies, Beroe van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabaar, Lea van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Blanckenberg, Johannes Henricus'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Caab, Isacq van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabaar, Hector van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Ternaten, Apollos van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Floris van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Samboua, Julij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Java, August van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Blanckenberg, Johannes Henricus'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Caab, Augustus van de', 'role': 'slave'}
+{'type': 'person', 'reg': 'Balij, Fortuijn van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Coridon van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Maccassar, Jason van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Apollus van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, April van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Madagascar, Portegies van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Batavia, Damon van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Bengalen, Coridon van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Madagascar, Salomon van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Mallabaar, Damon van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boegies, Baatjoe van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Boschouwer, Gerbregt'}
+{'type': 'person', 'reg': 'Bougies, Anthonij van', 'role': 'slave'}
+{'type': 'person', 'reg': 'Nortj�, Elizabeth'}
+{'type': 'person', 'reg': 'Verschuur, Hilletje'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'geographical'}
+{'type': 'person', 'reg': 'Maccassar, Damon van', 'role': 'slave'}
+[Finished in 0.869s]
