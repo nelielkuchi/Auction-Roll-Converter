@@ -1,0 +1,36 @@
+import pandas as pd
+import xml.etree.ElementTree as ET
+import os
+import re
+import csv
+
+###PARSE XML FILE###
+tree = ET.parse('C:\\Users\\Gina\\Documents\\Master Thesis\\Programming\\Parser3.0\\AuctionRoll10.xml')
+root = tree.getroot()
+
+###SET COLUMNS FOR DATAFRAME###
+dfcols = ['Date','Product', 'Buyer', 'Price']
+div = root.findall('.//div')
+body = root.findall('.//body')
+count = 0
+text = ''
+date_text = ''
+if count ==0:
+    for head in root.findall('.div//head'):
+        for date in head.findall('.//date'):
+            date_text = date_text + str(date.text) + ';'
+            date_text = date_text + "\n"
+            count = count + 1
+    for row in root.findall('.//table//row'):
+        for cell in row.findall('.//cell'):
+            text = text + str(cell.text) + ';'
+            text = text + '\n'
+            #print(text)
+            count = count + 1
+
+
+###TRY TO COPY DATE AND CELL INTO DATAFRAME###
+xml_data = [[date_text, text, 'hi', 'hi']
+            for div in body ]
+df_xml = pd.DataFrame(xml_data, columns = dfcols)
+print(df_xml)

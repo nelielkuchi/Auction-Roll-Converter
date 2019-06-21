@@ -1,0 +1,11 @@
+from lxml import objectify
+import pandas as pd
+xml = objectify.prase('AuctionRoll10.xml')
+root = xml.getroot()
+
+data = []
+for i in range(len(root.getchildren())):
+    data.append([child.txt for child in root.getchildren()[i].getchildren()])
+
+df = pd.DataFrame(data).T
+print(df)

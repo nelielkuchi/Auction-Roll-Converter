@@ -1,0 +1,2568 @@
+[Command: python -u 'C:\Users\Gina\Documents\Master Thesis\Programming\Parser2.0\parser1.py']
+A
+None
+Anna Heijns wed:e Cornelis Doese
+f:o 1
+Anna Heijlon wed:e Dirk van den Berg
+f:o 63
+Alletta van Rooijen wed:e Johan Hendrik Wittich
+f:o 64
+Anna Margaretha Ziek wed: Michiel Otto
+f:o 78
+B
+None
+Burgert van Dijk
+f:o 7
+Burgert van Dijk
+f:o 8
+Burgert van Dijk
+f:o 9
+Burgert van Dijk
+f:o 10
+C
+None
+Casper Schalker
+f:o 4
+Casper Schalker
+f:o 5
+Cornelia v:n Emmenes en nagelatene man Erasmus Smit d� oude
+f:o 6
+Catharina Erasmus laast wed: Roelof van den Burg
+f:o 16
+Catharina Erasmus laast wed: Roelof van den Burg
+fo. 17
+Cornelis Zaaijman
+f:o 35:36
+Cornelis Brits d� oude
+f:o 51
+Casper Hartog
+f:o 56
+Christiaan de Jager
+f:o 60
+Carel Fredrik Abel
+f:o 67
+D
+None
+Dirk Arendsz:
+f:o 39
+David Gast
+f:o 68
+David Gast
+f:o 69
+David Gast
+f:o 70
+E
+None
+Erasmus Smit d� oude
+f:o 37:38
+Elizabeth Nortje wed:e Matthijs Strijdom
+f:o 85
+F
+None
+Fredrik Christoffel Baron van Knuth
+f:o 57
+G
+None
+Gerrit van Emmenes d� oude
+f:o 28
+Gerbregt Boschouwer wed:e Johannis van Loggerenberg
+f:o 84
+H
+None
+Hendrik Gildenhuijsen
+f:o 52
+Hendrik Swart Jansz:
+f:o 54
+Helletje Verschuur wed:e Jan Hendrik Kop
+f:o 86
+Hendrik van Heerden wed:e Anna Lategaan
+f:o 62
+I
+None
+J
+None
+Jan Dewaal d� oude
+f:o 2
+Jan Christiaan Roode
+f:o 11
+Jan Christiaan Roode
+f:o 12
+Jan Christiaan Roode
+f:o 13
+Johannes Louw Pietersz:
+f:o 14
+Johannes Louw Pietersz:
+f:o 15
+Johan Nicolaas Schott
+f:o 20
+Johan Nicolaas Schott
+f:o 21
+Johan Nicolaas Schott
+f:o 22
+Johan Nicolaas Schott
+f:o 23
+Johan Nicolaas Schott
+f:o 24
+Johan Nicolaas Schott
+f:o 25
+Johan Nicolaas Schott
+f:o 26
+Johan Nicolaas Schott
+fo. 27
+Jan Godlieb Meijer
+f:o 32
+Johannes Louw Jansz:
+f:o 33
+Johanna Maria Lubbe wed:e Joh:s Christoff:l Wagenaar
+f:o 44
+Johanna Wilkens en nagelatene man Paulus Janssen
+f:o 45:46
+Jan Combrink
+f:o 47:48
+Jan Arend Redecker
+f:o 53
+Jurriaan David Gast
+f:o 71
+Jurriaan David Gast
+f:o 72
+Jan Hendrik Veldman
+f:o 59
+Jacobus Burgers
+f:o 65:66
+Johanna Rogiers en Godfried Hijdenreijch
+f:o 79
+Johannes Henricus Blankenberg
+f:o 80
+Johannes Henricus Blankenberg
+f:o 81
+Johannes Henricus Blankenberg
+f:o 82
+Johannes Henricus Blankenberg
+f:o 83
+K
+None
+L
+None
+M
+None
+Maria Vivie laast wed:e Willem van den Vijver
+f:o 34
+Maria Cicilia van Kerken vr: v: Jan Harm:s Nieuwoud
+f:o 42
+Maria Luijt vr: van Hend:k Ernst Kerkhof
+f:o 43
+N
+None
+O
+None
+P
+None
+Pieter Faij
+f:o 31
+Pieter Greef
+f:o 40
+Paulus Hartog
+f:o 77
+Q
+None
+R
+None
+Rachel Ni�l wed:e Paul Jourdaan
+29:30
+Roedolf Ditmar Mulder
+f:o 41
+Roedolff Brits
+f:o 61
+S
+None
+Stephanus du Toit d� oude
+f:o 18
+Sara Forie wed:e Adriaan van Wijk
+f:o 49
+Susanna Guarde wed:e Josua Joubert
+f:o 50
+Schalk Jacobsz: van der Merwe
+f:o 75:76
+T
+None
+U
+None
+Urbanus Sauerman de jonge
+f:o 55
+V
+None
+W
+None
+Willem de Waal
+f:o 3
+Willem van Wijk d� oude
+f:o 58
+X
+None
+Y
+None
+Z
+None
+Zirke Janssen
+f:o 73:74
+None
+None
+Rd:s
+1 partij flessen, bottels en aardwerk
+d E: Blanckenberg
+�:7
+6 porc:ne boterpotten
+de wed:e And:s Grov�
+1:7
+1 porc:ne lampet en schotel en 2 trekpotjes
+d� E: Blanckenberg
+1:�
+1 partij porc:n
+Jan IJsel
+�:3
+1 partij porc:n
+Dirk Snith
+�:7
+1 copere taaltepannetje
+d E: Cruijwagen
+1:7
+2 copere strijkijsers
+Ernst Kerkhoff
+2:1
+1 partij romm:
+Jan Menne
+�:4
+1 rijs coffer
+d E Blanckenberg
+1:4
+2 steenen vaderl:s seep en 2 steenen Caapse seep
+Hend:k Smit
+2:4
+1 casje met thee en 1 bijbel
+de wed:e And:s Grov�
+2:1
+6 kussens
+Frans Koensen
+3:1
+5 kussens
+Jan Redelinghuijs
+3:2
+1 bed, 1 peul, 4 cussens en 2 combaarsen
+s:r Van Oudshoorn
+25:4
+1 bijbel en 1 nagtmaalboek met silvere beslag en 4 boeken
+Fred:k Abel
+5:2
+1 partij olijtijten
+d E: Mart:s Berg
+�:5
+1 partij canten en lind
+de wed:e Bouree
+1:6
+2 swarte chitsen
+d E: Blanckenberg
+9:4
+2 swarte chitsen
+d E: La Febre
+9:7
+2 swarte chitsen
+d E: Blanckenberg
+9:7
+2 swarte chitsen
+M:r Sandenberg
+9:5
+2 swarte chitsen
+de wed:e Bouree
+9:7
+3 swarte chitsen
+m:r Sandenberg
+14:5
+1 � swarte chitsen
+m:r Sandenberg
+8:5
+12 sloopen in zoort
+Christ:n Bremicke
+2:3
+12 sloopen in zoort
+m:r Rijneveld
+2:3
+12 sloopen in zoort
+Christ:n Bremicke
+2:1
+16 sloopen in zoort
+de wed:e Jan Eelers
+1:1
+14 sloopen in zoort
+Frans Koensen
+3:�
+10 handdoeken
+Franc:s Drago
+1:�
+12 servetten
+de wed:e And:s Grov�
+1:5
+12 servetten
+Frans Koensen
+1:4
+6 laakens
+Ernst Kerkhoff
+3:3
+6 laakens
+Jan Roep
+2:4
+6 laakens
+Ernst Kerkhoff
+3:7
+1 partij garen en papier
+Jan Benicke
+2:1
+3 sprijen
+Jan Redelinghuijs
+2:�
+1 baatje, 3 hemden en 1 broek
+Jan Redelinghuijs
+2:5
+1 stuk wit linnen
+Dirk Snith
+7:4
+1 stuk wit linnen
+Jan Benicke
+7:2
+1 stuk wit linnen
+de wed:e Van der Trans
+7:3
+1 lap wit linnen en 4 neusdoeken
+Albert Isacq
+6:2
+4 silvere leepels
+m:r Jac:s Blanckenberg
+9:1
+1 silvere brilhuijse en 2 brillen
+Pieter Keve
+4:4
+1 silvere vingerhoed en 4 potstukjes
+Jan Redelinghuijs
+1:7
+1 paar goude hemdsknoopjes
+Nicol:s Springer
+3:7
+1 paar goude slootjes
+Ernst Kerkhoff
+9:3
+1 goude ring met 1 rode steen
+Hend:k Heijns
+2:2
+1 p:r goude oorcrabbetjes
+d E: Cruijwagen
+3:2
+1 p:r oorbellen in goud geset
+de wed:e Jan Eelers
+3:4
+1 p:r goude knoopjes en 1 silvere cintuurgesp
+Christoff:l Kreij
+1:7
+1 ledige kist en 1 stoel
+Dirk Snith
+2:�
+1 ledige kist
+de wed:e And:s Grov�
+1:1
+9 vrouw gonnen
+de wed:e And:s Grov�
+14:�
+4 sacken
+de wed:e And:s Grov�
+4:�
+28 hemden
+Anna Maria Heijns
+33:3
+7 cabaijen
+Anna Maria Heijns
+6:�
+21 rokken
+Anna Maria Heijns
+15:�
+3 halve sacken
+Anna Maria Heijns
+1:7
+5 borstrocken, 15 voorschooden, 28 neusdoeken, 12 nagtcapjes, 15 p:r cousen, 12 p:r vr: handschoenen, 6 p:r mofjes, 4 p:r lubben
+Anna Maria Heijns
+10:�
+None
+Somma
+Rd:s 313:2
+None
+None
+Rd:s
+1 parthij ijserwerk
+Jochem Hubner
+2:2
+1 parthij ijserwerk
+Hendrik de Waal
+2:6
+1 vat met schulpen
+Deowald Andreas
+1:7
+1 partij ijserwerk
+Jan Daniel
+1:2
+100 lb coper gewigt
+Hendrik de Waal
+15:1
+66 lb coper gewigt
+Hendrik de Waal
+10:2
+50 lb lood en ijser
+Jan Smook
+2:3
+1 ijsere balans en 2 houte schaalen
+Hendrik Louw
+10:6
+9 avegaars in zoort
+Hendrik de Vries
+2:4
+1 lijtafel
+Jungen Bending
+1:�
+1 parthij ijserwerk
+Deowald Andreas
+1:6
+1 vogelkooij en 1 verkeerbord
+Jan Daniel
+1:3
+1 verkeerbord met zijn schijven
+Deowald Andreas
+�:4
+1 verkeerbord met zijn schijven
+Hendrik Smit
+�:2
+1 verkeerbord met zijn schijven
+Casper Holtman
+�:2
+1 verkeerbord met zijn schijven
+Casper Holtman
+�:1
+1 parthij sommereelen
+Jacob Bremicke
+�:2
+3 ladders
+Christiaan Ludolph
+1:[3]
+1 parthij houtwerk
+Dirk Snith
+1:5
+3 paruijke bollen en romm:g
+Barth:s Schonk de jonge
+�:2
+1 vleeschblok
+Pieter Wijdeman
+�:4
+2 vuurmanden en rommeling
+Hendrik Smit
+�:2
+2 ijsere potten
+Jan Benicke
+2:3
+2 halfaamen en 1 vaatje
+Abraham Craaijwinkel
+2:6
+1 halfaam[en]
+Willem Roedolff
+2:�
+1 brandewijns keetel met zijn koelvat
+Jan Redelinghuijs
+38:�
+3 racken
+Hendrik de Waal
+1:6
+3 stucken hout
+Lodewijk Figtener
+�:6
+1 oude vat en wat houtwerk
+Jan Vermeulen
+�:5
+2 racken
+Hendrik de Waal
+2:4
+1 parthij plancken
+Abraham van Ventura
+2:�
+1 speekraam
+Jacob Bremicke
+�:1
+1 timmermanskist met gereedschap
+Casper Holtman
+3:5
+1 timmermanskist met gereedschap
+Lodewijk Figtener
+1:�
+1 led:e kist
+Frans Bouwman
+6:�
+1 oude deur en 2 vensters
+Pieter Papendorf
+�:6
+1 parthij romm:g
+Lodewijk Figtener
+1:4
+1 schaafbank
+Frans Tapelberg
+1:4
+1 schaafbank
+Frans Tapelberg
+3:2
+1 huijstrap
+Jan Redelinghuijs
+1:4
+1 oude cosijn met zijn deur
+Goris Middelkop
+3:�
+1 eetenskast
+Jan van Reenen
+3:7
+1 scherm
+Jan Roep
+1:5
+1 tafelcasje
+Pieter Wijdeman
+2:5
+1 cop:e disteleerkeeteltje met zijn helm
+Daniel Rood
+17:1
+4 aardepotten en 1 parthij bottels
+Pieter Rijnders
+1:6
+3 aardepotten
+Jan Prins
+1:7
+2 kapstocken
+Jacob Bremicke
+1:1
+1 rijsblok met sijn stamper
+Evert Schut
+1:1
+1 parthij romm:g
+Moses Davidsz:
+1:�
+2 led:e leggers
+Abraham Craaijwinkel
+17:7
+50 vloersteenen
+Jochem Hiebner
+7:5
+50 vloersteenen
+Pieter Fijn
+5:2
+1 draaijbank en toebehooren
+Coenraad Braun
+6:5
+1 parthij draaij gereedschap
+Hendrik de Waal
+2:4
+1 raamsaag
+Frans Tapelberg
+�:4
+1 ijsere moker, 1 omslag en 1 oude slijpsteen
+Christoffel Voogd
+1:�
+1 slijpsteen
+Gerrit Louw
+1:6
+1 rijtuijg
+Jurgen Spengeler
+14:�
+1 chiais
+mons:r Harm:s van Weelig
+6:6
+1 bak van 1 rijtuijg
+Pieter Voges
+1:3
+2 balken
+Dirk Snith
+2:7
+2 balken
+Christiaan Ludolf
+4:1
+2 balken
+Casper Wijvenbach
+2:7
+6 paarde tuijgen
+Cornelis de Waal
+9:2
+2 paarden
+Jan le Roes de jonge
+14:�
+2 paarden
+Cornelis de Waal
+37:�
+2 paarden
+Adriaan de Necker
+45:�
+9 oude stoelen
+Hendrik Smit
+1:1
+2 oude tafeltjes
+mons:r De Leeuw
+�:3
+2 oude tafeltjes en 1 rakje
+Aus:s C:l Kok
+1:2
+1 oude paveljoen
+Jacob Grijvensteen
+3:3
+2 chiais tuijgen
+d� E: Fischer
+4:6
+6 stoelen
+Ernst Kerkhoff
+3:3
+5 stoelen
+Nic:s de Kat
+4:�
+3 glaase raamen
+Hendrik Eckard
+1:1
+1 parthij ijserwerk
+Pieter Voges
+5:3
+1 parthij ijserwerk en romm:g
+Tobias van Dijk
+�:5
+1 parthij ijserwerk
+Jan Daniel
+1:7
+1 moster moolen
+Mattiam le Roes
+�:3
+1 compas en romm:g
+Domingo Rorsa
+�:5
+1 parthij romm:
+Aug:s C:l Kok
+�:7
+1 parthij ijsere kettings
+Hans Moor
+2:3
+1 parthij ijwerwerk en romm:g
+Thomas Kempf
+3:5
+2 ploegschaaren
+Pieter Voges
+2:1
+1 parthij oud coper
+s:r Bresler
+14:�
+1 parthij ijserwerk
+Jan Smit Jurriaansz:
+5:1
+1 parthij oud tinwerk
+Jan Swigting
+3:5
+1 zadel en toebehooren
+Deowald Andreas
+8:1
+2 loode pijpen
+serg:t Muijser
+2:3
+1 rijsblok met sijn stamper
+d� E: Blanckenberg
+3:6
+2 halfaamen
+Fredrik Mulder
+3:1
+1 led:e vat
+Jacob Grijvensteen
+1:4
+1 parthij rommeling
+Christoffel Voogd
+�:2
+1 stelletje, 1 hackebord en wat romm:g
+serg:t Muijser
+1:6
+1 parthij rommeling
+Joseph Elsing
+1:6
+1 parthij timmermans gereedschap
+Tobias van Dijk
+5:�
+2 steenen
+Godfried Bandik
+�:4
+1 parthij rommeling
+Daniel Krijnauw
+3:�
+1 kalbas en wat rommeling
+Frans Tapelberg
+�:6
+2 koornschoppen, 1 scheepel en 1 vaatje
+Joseph Wolmerands
+1:6
+2 vaatjes met wat amandelen en 1 kaarse laatje
+Thomas Kempf
+1:4
+1 parthij thuijngereedschap en rommeling
+Jan Smit Jurriaansz:
+1:3
+1 hoedekast en wat aarde werk
+Ernst Kerkhoff
+�:4
+1 parthij schoffels
+d� E: Fischer
+3:1
+1 parthij romm:g
+Pieter Voges
+�:4
+1 parthij romm:g
+Jan Smit van
+2:1
+1 parthij rommeling
+Albert Isacq
+1:6
+1 scheepel en 2 koorn schoppen
+Willem Wilken
+1:4
+3 schuijtsriemen en 1 haak
+Hendrik Smit
+2:3
+200 moppen
+Jochem Hienber
+3:1
+200 moppen
+Sivert Jacobsz: Wit
+3:5
+1 parthij moppen
+Jochem Hiebner
+4:[6]
+12 porc:e tafelborden
+Adolf Jonker d� oude
+1:5
+10 porc:e tafelborden
+Johannes Smuts
+1:3
+9 porc:e tafelborden
+Hendrik Mijer van
+1:1
+10 porc:e tafelborden
+Ernst Kerkhoff
+�:7
+12 porc:e tafelborden
+d� wed:e De Waal
+1:4
+21 porc:e tafelborden
+mons:r Zeijts
+2:�
+14 porc:e tafelborden
+Haija Swartsenburg
+2:�
+16 porc:e tafelborden
+Corn:s de Waal
+2:�
+12 porc:e tafelborden
+Jan Holst
+1:�
+12 porc:e tafelborden
+Coenraad Braun
+2:�
+12 porc:e tafelborden
+Haija Swartsenburg
+2:�
+2 porc:e scheerbecken
+s:r Schols
+�:[1]
+1 porc:e schootel
+d� E: Fischer
+1:[3]
+12 Japans porc:e borden
+mons:r Brand
+5:[3]
+13 Japans porc:e borden
+mons:r Brand
+6:[7]
+7 Japans porc:e assietten
+Christoffel Voogd
+3:�
+1 Japans porc:e com met sijn schotel en deksel
+s:r Pet:s de Wit
+8:�
+5 Japans schootels
+s:r Bresler
+3:3
+2 porc:e commen
+Frans Tapelberg
+1:3
+3 porc:e commen in zoort
+d� wed:e Rabe
+1:1
+10 porc:e haantjes
+d� E: Hassing
+�:5
+1 stelletje Japans porc:e castpotjes
+Jan IJsel
+1:�
+1 Delfs porc:e potje en 1 [Delfs] porc:e bord
+Jan IJsel
+2:2
+1 porc:e schootel met wat porc:n
+d� E: Fischer
+�:3
+2 stellen porc:e castpotjes
+mons:r Brand
+1:5
+1 vergulde beeld
+Jan Holst
+1:1
+1 parthij beelden in soort
+s:r Bresler
+3:5
+1 porc:e schootel met wat porcelijn
+Matthiam le Roes
+�:3
+12 porc:e borden
+Dirk de Jong
+2:1
+7 porc:e borden
+Jacob Bremicke
+1:1
+6 porc:e borden
+C:n Bremicke
+�:7
+1 porc:e coffijkan en 3 porc:e pierings
+Hend:k de Waal
+�:6
+2 porc:e kannen
+Daniel Rood
+�:7
+1 parthij porcelijn
+Th:s Scheel
+�:3
+1 porc:e pot met zijn deksel
+Th:s Scheel
+1:�
+1 porc:e pot
+Hendrik Smit
+�:3
+1 porc:e gorgolet met silver beslagen
+Jurgen Spengeler
+1:4
+1 porc:e pot
+Christ:n Bremicke
+�:4
+2 porc:e pot[ten]
+d� wed:e Rabe
+1:5
+2 porc:e pot[ten]
+d� wed: Rabe
+2:�
+1 porc:e schotel en wat glaswerk
+Th:s Scheel
+�:6
+1 porc:e schotel en wat glaswerk
+d� E: Fischer
+1:�
+2 schildereijtjes en 2 glaase armblakers
+Th:s Scheel
+�:1
+2 glaase bokalen
+s:r Brink
+�:4
+2 glaase bokalen
+Hendrik de Waal
+�:5
+1 glaase roemer
+Christ:n Bremicke
+�:2
+1 koetsglas
+Christ:n Bremicke
+2:�
+1 casje met 16 glase lampen
+s:r Kirsten
+2:�
+2 spiegeltjes
+Jan Tinner
+3:4
+1 bokaal en deksel
+s:r Brink
+�:5
+2 bokaal[en] en deksel[s]
+Pieter Keeve
+�:6
+2 bokaal[en] en deksel[s]
+Jurgen Spengeler
+�:5
+2 glaase confituur bakjes
+Willem Roedolf
+�:5
+1 parthij glaswerk
+Pieter Theron
+1:�
+1 tinne staander met 1 glaase olij en asijn kannetje
+d� wed:e Vilter
+2:5
+1 glaase scheerbecken en wat glaswerk
+Dirk van der Schijf d: jonge
+�:3
+2 glaase kandelaars
+Pieter Theron
+�:3
+3 glaase kandelaars
+Jan Menne
+�:5
+2 glaase bokalen
+Christiaan Ziedeman
+�:2
+2 glaase bokalen
+Pieter Keeve
+�:3
+5 glaase kelken
+Hendrik de Waal
+1:5
+1 glaase kan
+Pieter Keeve
+�:7
+6 glaase kelkjes
+d� E: Fischer
+�:7
+7 glaase kelkjes in zoort
+Adriaan de Necker
+1:�
+7 glaase kelkjes in zoort
+Jan Redecker
+�:7
+1 schildereij
+Cornelis de Waal
+2:1
+6 schildereij[en]
+Joh:s van Asten
+10:2
+1 schildereij
+Pieter Keeve
+1:�
+1 kanastertje met pouder suijker
+Ernst Kerkhoff
+1:6
+5 schildereijtjes
+s:r Schols
+�:7
+2 cijfer lijen
+d� E: Fischer
+�:3
+24 koorn sickels met haare heften
+s:r Brink
+�:5
+24 koorn sickels met haare heften
+Joseph Wolmerands
+�:5
+24 koorn sickels met haare heften
+Willem Wilken
+�:2
+24 koorn sickels met haare heften
+s:r Brink
+�:6
+24 koorn sickels met haare heften
+Matthiam le Roes
+�:5
+1 parthij sickels met haare heften
+Joseph Wolmerands
+�:1
+3 tinne schootels en 1 tinne kan
+Daniel Rood
+1:4
+48 p:r ijsere knieren
+Godfried Bandik
+�:7
+48 p:r ijsere knieren
+Pieter Voges
+�:6
+48 p:r ijsere knieren
+Pieter Voges
+�:6
+48 p:r ijsere knieren
+Hendrik Smit
+�:5
+48 p:r ijsere knieren
+Godfried Bandik
+1:�
+27 p:r ijsere knieren
+Frans Tapelberg
+�:2
+1 partij ijsere knieren
+Willem Wilken
+2:2
+2 pakjes ijsere ringen
+Pieter Voges
+�:3
+1 mandje met wat ijserwerk
+Carel Praag
+1:4
+1 bakje met 1 parthij swavel staarten
+Pieter Voges
+�:3
+1 vaatje met wat swavel staarten
+Jacob Mijer
+�:3
+1 parthij coperdraat
+Jurgen Spengeler
+1:7
+1 fiool en strijkstok
+Willem Wilken
+�:6
+1 fiool en strijkstok
+Willem Wilken
+1:�
+1 parthij romm:g
+s:r Schols
+1:2
+1 blicke bus met wat hagel
+Joh:s Tesselaar
+2:1
+1 parthij vaderlands riet
+Dirk d� Jong
+2:1
+2 graven
+Cornelis de Waal
+2:2
+3 graven
+Cornelis de Waal
+3:2
+3 graven
+Mart:s L:s Smit
+3:5
+1 ijsere balans en 2 copere schaalen
+s:r Schols
+5:�
+1 vaatje met wat hagel
+Godfried Heijdenreich
+1:�
+1 vaatje met wat swavel
+Th:s Scheel
+1:�
+1 cop:e confoor en 1 tinne theekeetel
+d� wed:e De Waal
+2:1
+1 vaatje met wat swavel
+mons:r De Leeuw
+2:�
+4 copere quispedoors
+de wed:e Voltelen
+8:1
+4 copere quispedoors
+Albert Isacq
+2:�
+4 copere quispedoors
+Godfried Heijdenreich
+7:1
+3 copere quispedoors
+s:r Brink
+15:�
+1 copere beeker, 1 copere snuijterbak en 1 copere lampje
+Jan Germershuijsen
+�:7
+1 verrekijker
+Jurgen Spengeler
+4:1
+1 snaphaan
+s:r Jac:s van Reenen
+4:2
+1 musketton
+d� E: van Schoor
+3:1
+1 p:r sak pistoolen
+Willem Wilken
+1:5
+3 harsvangers
+Hans Jurgen Lind
+1:�
+1 p:r pistoolen
+Hendrik de Waal
+4:2
+1 snaphaan en 1 piek
+Daniel Rood
+1:�
+5 flesjes Hallesche medicamenten
+Jan Tenner
+2:5
+5 flesjes Hallesche medicamenten
+Jurgen Bending
+2:5
+5 flesjes Hallesche medicamenten
+s:r De Wit
+2:5
+5 flesjes Hallesche medicamenten
+d� wed:e Mulder
+2:7
+5 flesjes Hallesche medicamenten
+Pieter Keeve
+2:6
+5 flesjes Hallesche medicamenten
+Jacob Bremicke
+2:6
+5 flesjes Hall: medicijnen
+Jan Plaat
+2:5
+5 flesjes Hall: medicijnen
+Jan Hasse
+2:5
+5 flesjes Hall: medicijnen
+juff:w de wed:e Westpalm
+2:7
+5 flesjes Hall: medicijnen
+Willem Wilken
+2:7
+5 flesjes Hall: medicijnen
+Matthiam le Roes
+2:7
+5 flesjes Hall: medicijnen
+mons:r Brand
+2:7
+5 flesjes Hall: medicijnen
+mons:r Albert Mijburg
+2:7
+5 flesjes Hall: medicijnen
+d� E: Fischer
+2:7
+5 flesjes Hall: medicijnen
+Tobias van Dijk
+2:7
+5 flesjes Hall: medicijnen
+Willem Wilken
+2:7
+5 flesjes Hall: medicijnen
+Christ:n Mremicke
+2:7
+5 flesjes Hall: medicijnen
+Fredrik Ranft
+3:�
+5 flesjes Hall: medicijnen
+d� E: Hassing
+3:�
+5 flesjes Hall: medicijnen
+Jurgen Spengeler
+3:�
+5 flesjes Hall: medicijnen
+s:r Brink
+2:6
+5 flesjes Hall: medicijnen
+s:r Van Sittert
+2:7
+5 flesjes Hall: medicijnen
+mons:r W:m Bosman
+3:�
+5 flesjes Hall: medicijnen
+Hendrik Halst
+2:7
+5 flesjes Hall: medicijnen
+Godfried Heijdenreich
+2:7
+5 flesjes Hall: medicijnen
+Bart:s Bosch
+2:7
+5 flesjes Hall: medicijnen
+d� E: Blanckenberg
+3:�
+5 flesjes Hall: medicijnen
+Fredrik Neethling
+2:7
+5 flesjes Hall: medicijnen
+Daniel Krijnauw
+2:6
+5 flesjes Hall: medicijnen
+mons:r Joh:s Leij
+2:7
+5 flesjes Hall: medicijnen
+Ant:ij Hitzman
+2:6
+5 flesjes Hall: medicijnen
+d� E: van Sittert
+2:6
+5 flesjes Hall: medicijnen
+Matthijs van Wieligh
+2:6
+5 flesjes Hall: medicijnen
+Pieter Papendorf
+2:6
+5 flesjes Hall: medicijnen
+Douwe Meijer
+2:7
+5 flesjes Hall:e medicijnen
+Jan Redelinghuijs
+2:7
+5 flesjes Hall:e medicijnen
+Jan Klopfer
+2:7
+5 flesjes Hall:e medicijnen
+Fredrik Neethling
+2:7
+6 flesjes Hall:e medicijnen
+d� E: Hassing
+3:5
+6 flesjes Hall:e medicijnen
+Joh:s Blanckenberg
+3:5
+1 ijsere staander, 1 cop:e becken en 1 cop:e lampet
+s:r H:O: Ecksteen
+1:5
+1 cop:e poffertjespan
+Joh:s Pirman
+2:2
+1 cop:e taartepan met zijn deksel
+Godfried Heijdenreijch
+5:�
+1 ijsere rooster
+mons:r Schoester
+2:5
+2 wafel ijsers en 1 oblie ijser[s]
+mons:r Sanderus
+3:5
+2 drievoeten
+Joseph Jonie
+1:5
+1 ijsere pot met zijn deksel
+Jan Smook
+3:4
+1 ijsere pot met zijn deksel
+Jan IJsel
+�:3
+2 ijsere pot[ten] met zijn deksel
+Joseph Wolmerands
+1:6
+1 ijsere pot met zijn deksel
+Pieter Malet
+3:1
+1 ijsere pot met zijn deksel
+Jan Hendrik Vos
+1:6
+2 ijsere pot[ten] met zijn deksel
+Jan Smook
+�:5
+1 koekepan en 1 vleeschvorm
+Godfried Bandik
+�:4
+2 cop:e braadpannen
+mons:r Harm:s Bosman
+3:1
+1 hoede kas met 1 parthij knieren en schroeven
+Hendrik Smit
+�:7
+1 porc:e pot en rommeling
+serg:t Muijsner
+1:6
+3 kettings
+Nicolaas Springer
+1:4
+1 parthij houtwerk
+Jan Clopfer
+1:1
+1 parthij houtwerk
+Jan Plaat
+�:3
+1 parthij houtwerk
+C:l Kok
+�:3
+1 tafeltje en 1 casje
+Albert Isacq
+�:3
+1 cast en 2 vengsters
+Lodewijk Figtener
+�:7
+2 oude sadels en 6 tuijgen
+Jan Smit van
+1:�
+2 dekstoelen
+Pieter Wijdeman
+1:2
+2 dekstoelen
+d: E: Blanckenberg
+2:6
+1 parthij rommeling
+Christoffel Broderik
+�:1
+1 ijsere [pot] en 1 aarde pot en 3 stoelen
+Jacobus Hendriksz:
+�:6
+1 parthij rommeling
+Erig Haspeling
+3:4
+1 parthij rommeling en 1 tobaks doos
+mons:r De Leeuw
+1:�
+3 stoelen
+Jan Smit Jurriaansz:
+3:�
+1 ijsere koevoet
+mons:r Floris Brand
+2:4
+6 metaale kaamers
+s:r Faasen
+14:7
+1 metaale stukje en 1 parthij affuijtjes
+Pieter Fijn
+4:1
+2 theerakjes
+Jacobus Pasman
+1:3
+1 schrijflaadje met een parthij schijven
+Jan Roep
+1:2
+1 lessenaar
+Pieter Wijdeman
+1:4
+1 ijsere plaat
+Jan Redelinghuijs
+1:3
+2 oude sadels
+Jurgen Bending
+2:6
+1 kasje met ruijten
+Christ:n Bremicke
+11:�
+9 cafsacken
+mons:r Harm:s Bosman
+1:7
+1 dommekragt
+Frans Tapelberg
+4:3
+1 dommekragt
+Johannes Rauch
+2:5
+1 dommekragt
+Jan Smit Jurriaansz:
+3:3
+12 geelhoute plancken
+P:r Broeders
+26:5
+1 cop:e hanglamp
+Erig Haspeling
+2:1
+1 parthij coperwerk
+Erig Haspeling
+2:5
+1 lessenaar, 2 aarde potten en rommeling
+Jan Benicke
+�:6
+1 vaatje en 1 casje met wat verf
+mons:r De Leeuw
+2:7
+1 geweerrak
+mons:r Sanderus
+�:3
+1 rak
+mons:r Sanderus
+1:1
+3 oude vensters en 2 backen
+s:r Schols
+�:4
+1 oude ledicant en behangsel
+Albert Isacq
+14:�
+1 parthij houtwerk
+Lodewijk Figtener
+�:3
+1 ovale tafel
+Willem Wilken
+4:5
+1 vierk:e tafel
+Tobias van Dijk
+1:4
+1 vierk:e tafel
+Laurens Cornelisz:
+3:6
+1 vierk:e tafel
+Carel Frik
+�:3
+1 kadel
+Jan Smit Jurriaansz:
+1:2
+1 kadel
+Laur:s Cornelisz:
+4:2
+1 kadel
+mons:r Knockers
+2:3
+1 parthij glaase raamen
+Jan Germershuijsen
+1:2
+5 glaase raamen
+Pieter Voges
+1:1
+2 glaase raamen
+mons:r Fhersen
+1:5
+1 buijdelkist
+Hendrik Eckard
+10:5
+None
+13:en
+1 parthij houtwerk
+Lodewijk Figtener
+1:�
+1 blok
+Lodewijk Figtener
+�:4
+1 parthij latjes en 1 balij
+A: C:l Kok
+1:�
+1 parthij houtwerk en 1 vaatje
+Ab:m van Ventura
+�:5
+2 manden en 1 halfaam
+Lodewijk Figtener
+�:6
+1 kist met wat timmermans gereedschap
+s:r Schols
+�:7
+1 kelder met cement
+d� E: Fischer
+1:�
+1 cast met cement
+Jan Redelinghuijs
+�:6
+2 oude vaten en rommeling
+Lodewijk Figtener
+�:2
+1 halfaam
+Mattiam le Roes
+3:1
+1 halfaam
+Lodewijk Figtener
+3:3
+1 vat met romm:g
+Jan C:l Klopfer
+2:2
+2 led:e bierpijpen
+Ab:m van Ventura
+4:5
+1 tafeltje
+Carel Frik
+2:1
+1 paveljoen met zijn behangsel
+d� E: Blanckenberg
+10:�
+1 led:e kist
+mons:r Harm:s Bosman
+8:�
+1 kraansaag
+Matt:m le Roes
+3:�
+1 treksaag
+Hendrik de Waal
+2:2
+1 raamsaag
+Pieter Rijnders
+1:5
+1 led:e kist
+d� E: Fischer
+1:1
+1 halfaam en rommeling
+Joh:s Pirman
+2:2
+11 kannetjes in zoort
+Dan:l Krijnauw
+1:4
+2 kalbassen en 1 casje met rommeling
+Frans Tapelberg
+1:3
+40 led:e bottels
+Erig Haspeling
+�:5
+2 calbassen en 1 quispel
+s:r Brink
+1:5
+3 calbassen
+Daniel Rood
+1:5
+80 led:e bottels
+s:r Lutgens
+2:3
+1 draagstoel met sijn stocken
+Jan Vermeulen
+4:1
+1 parthij geblameerd doek
+Lodewijk Figtener
+1:7
+2 verfsteenen met haar lopers
+s:r Van Sittert
+�:6
+4 verfsteenen met haar lopers
+P:r Keeve
+4:�
+1 parthij verfbaletjes
+Jan Holst
+4:4
+1 parthij verfbaletjes
+Franc:s de Necker
+2:�
+1 parthij schildersgereedschap
+Franc:s de Necker
+�:1
+1 parthij ver[f]stoffen
+Matt:m le Roes
+2:1
+1 parthij romm:g
+Jan Smit van
+�:5
+1 Keulse pot
+Jan Redecker
+�:4
+2 vaten met verfstoffen
+Lod:k Figtener
+9:�
+1 halfaam met gember confijt
+Jan IJsel
+15:1
+1 kelder met 4 flessen
+s:r Schols
+2:�
+1 casje met wat ruijten
+mons:r d� Leeuw
+1:6
+1 vaatje met swavel staarten en 1 calbas
+Frans Tapelberg
+1:�
+1 ijsere balans en 2 copere schaalen
+Hendrik de Waal
+8:�
+1 hoedekas met 1 parthij boeken
+Joseph Wolmerands
+�:3
+1 parthij boeken
+Jan IJsel
+�:3
+1 parthij boeken
+Christiaan Bermicke
+�:3
+2 compassen
+Hendrik Geijser
+�:2
+2 doosjes met wat ijserwerk
+Lod:k Figtener
+�:2
+1 parthij kaarse snuijters
+Hendrik Geijser
+�:5
+1 kast met wat thee
+Abraham van Ventura
+3:5
+1 kast met wat thee
+Abraham van Ventura
+1:4
+8 Chineese beeldjes
+Jurgen Spengeler
+1:7
+2 Chineese beeldjes
+Pieter Terron
+�:5
+2 Chineese beeldjes
+Willem Wilken
+1:2
+2 Chineese beeldjes
+Pieter Theron
+�:3
+8 Chineese beeldjes
+Jan IJsel
+�:3
+12 Chineese beeldjes
+Thet:s Scheel
+�:5
+2 armblakers
+Joseph Wolmerands
+�:4
+2 armblakers
+de wed:e Vilter
+�:5
+2 armblakers
+de wed:e Vilter
+�:5
+3 cop:e kraanen
+mons:r De Leeuw
+�:6
+1 cop:e verlaat kraan[en]
+Isacq Nel
+3:2
+2 guerridons
+s:r Brink
+1:2
+4 schilderijen
+de wed:e Bouree
+3:3
+2 schilderijen
+Hendrik Geijser
+�:2
+2 schilderijen
+mons:r Schoester
+7:5
+1 hoedekast met wat boeken
+Nicolaas Springer
+�:1
+1 hoedekast met wat porc:n
+de wed:e Bouree
+�:6
+2 flessen lijn olij
+Jan Redecker
+1:4
+2 flessen lijn olij
+Wentsel Tichu
+1:6
+2 flessen lijn olij en 1 half vol lijn olij
+de wed:e Vilter
+2:2
+1 doosje met romm:g
+Nicolaas Springer
+�:4
+1 parthij boorijsers en cop:e knoopen
+s:r Schols
+1:2
+1 parthij cop:e knoopen
+Jan Tenner
+1:1
+2 Chineese goud gewigten
+mons:r Jac:s v:n der Spuij
+3:7
+1 Chineese goud gewigt[en]
+s:r Brink
+1:3
+1 schel, 1 trancheer mes en 1 trancheer fork en 1 cop:e rasp
+d� E: Fischer
+1:4
+1 parthij zijlgaaren
+Hendrik Elswoud
+1:6
+8 messen in zoort
+Willem Wilken
+2:�
+1 dozijn staale forken
+s:r Brink
+�:6
+1 dozijn staale forken
+Willem Wilken
+�:6
+1 dozijn staale forken
+d� E: Fischer
+�:6
+2 dozsijn ijsere forken
+Jacob Mijer
+�:5
+2 dozijn ijsere forken
+Thet:s Scheel
+�:4
+1 dozijn stale forken
+s:r Brink
+�:6
+1 dozijn stale forken
+s:r Brink
+�:6
+1 dozijn stale forken, 1 dozijn ijsere forken
+Jan Hendrik Vos
+1:�
+1 parthij vuurwerken
+Hendrik Eckard
+�:2
+6 rolletjes sinkings plaister
+mons:r De Leeuw
+1:�
+6 rolletjes sinkings plaister
+d� E: van Schoor
+1:�
+6 rolletjes sinkings plaister
+s:r Brink
+1:�
+6 rolletjes sinkings plaister
+Jan Hitzman
+1:�
+1 kisje met 1 parthij flesjes
+Willem Wilken
+�:3
+2 flesjes met wat sago
+d� E: Hassing
+�:5
+4 flesjes Hallesche medicijnen
+s:r Brink
+1:4
+4 flesjes Hallesche medicijnen
+d� E: Fischer
+1:4
+4 flesjes Hallesche medicijnen
+Mattiam le Roes
+1:4
+4 flesjes Hallesche medicijnen
+s:r Brink
+1:4
+4 flesjes Hallesche medicijnen
+s:r Van Sittert
+1:4
+4 flesjes Hallesche medicijnen
+s:r Brink
+1:4
+4 flesjes Hallesche medicijnen
+s:r Brink
+1:2
+4 flesjes Hallesche medicijnen
+juff:w de wed:e De Wet
+1:4
+4 flesjes Hallesche medicijnen
+d� E: Blanckenberg
+1:4
+1 Chinees gewigt
+Jan Tesselaar
+�:3
+1 doosje met 6 paarde kuijven en romm:g
+Lourens Snith
+�:4
+1 bak met rommeling
+s:r Schols
+�:4
+1 parthij coperdraat
+Pieter Wijdeman
+1:5
+1 kasje met cop:e beslag en romm:g
+mons:r Knockers
+2:3
+1 koker met lanchetten en 1 Pedra Cordial
+d� E: Blanckenberg
+1:1
+1 kisje met rommeling
+s:r Schols
+�:2
+1 parthij plijsters
+de wed:e Rabe
+�:2
+1 gecouleurde vellen
+Jan IJsel
+1:6
+1 parthij pinsbecke knoopen en 2 p: roode kousen
+Willem Wilken
+1:4
+1 stuk sigtermans saaij
+Christ:n Ziedeman
+7:1
+12 neusdoecken
+Jan Tenner
+5:3
+1 stuk gestreept dourias
+de wed:e Vilter
+3:1
+1 lap sigtermans saaij, 1 lap dourias en 1 stuk gingam
+s:r Steijn
+6:�
+2 voerchitsen
+Jan Tenner
+5:4
+1 cabinet
+mons:r Pieter Loret
+70:�
+1 cabinet
+Daniel Louw
+60:7
+1 spiegel en 2 armblakers
+Hendrik de Waal
+34:�
+2 ophaal gordijnen
+Tobias Rogiers
+5:]
+1 geweerrack
+Joh:s Hitzman
+2:3
+1 ledicant met zijn behangsel
+Hendrik Eckard
+18:4
+4 schilderijen
+Johannes Smuts
+29:2
+2 schilderijen
+d� E: Westerhoff
+5:�
+1 huijs horologie
+Pieter Keeve
+100:�
+4 schilderijen
+Hendrik de Waal
+36:�
+3 vogelkooijen en 3 vogels
+d� E: Blanckenberg
+8:4
+2 ophaal gordijnen
+Tobias Rogiers
+2:1
+1 cop:e croon
+Hendrik de Waal
+11:�
+1 cop:e hanglamp
+Marth:s L:s Smit
+3:3
+1 cop:e hanglamp
+Jan Holst
+3:1
+1 koekoek horologie
+Jan Holst
+�:7
+1 spiegel
+mons:r Heijning
+15:1
+1 kist met cop:e beslag
+d� E: Blanckenberg
+18:1
+4 vogelkooijen
+Jan Benicke
+2:1
+5 vogelkooijen
+Jan Benicke
+2:5
+1 pijperak en 1 pullerkouw
+Joh:s Smuts
+�:1
+1 muijseval en 1 tobaksmes
+Jurgen Spengeler
+1:�
+1 eetenskasje
+d� wed:e De Waal
+2:1
+2 ophaal gordijnen
+Tobias Rogiers
+�:7
+1 lessenaar
+mons:r Jan de Villiers Jp:sz:
+10:�
+1 bed, 1 peul en 3 kussens
+Coenraad Braun
+20:1
+1 bed, 1 peul en 2 kussens
+Jacob Mijer
+7:3
+1 bed, 4 kussens en 1 combaars
+Paul Thijssen
+12:4
+1 bijbel met cop:e beslag
+Dirk van der Schijf de j:
+15:�
+1 bijbel lessenaar
+Hendrik de Waal
+1:4
+1 ijsere theeketel, 1 confoor en 1 koekepan
+Jan Benicke
+�:4
+1 zeeft, 1 rooster en 1 blaasbalg
+Pieter Voges
+�:4
+1 tafel
+Christiaan Bremicke
+�:4
+1 bakkist
+Aug:s C:l Kok
+�:4
+1 bakkist en oven gereedschap
+Hendrik Eckard
+1:3
+1 tafelcasje
+Pieter Papendorf
+1:1
+1 parthij romm:g
+Lodewijk Figtener
+�:3
+1 botervat en 1 balij
+Lodewijk Figtener
+�:6
+1 parthij houtwerk
+Jan Redecker
+�:4
+2 stucken swart ebbenhout
+Hendrik Herbst
+4:�
+1 parthij swart ebbenhout
+d� E: Fischer
+�:7
+1 parthij vengsterraamen
+Pieter Voges
+�:2
+3 cajate plancken
+Daniel Krijnauw
+4:�
+1 cozijn met zijn deuren
+s:r Van Nek
+3:7
+1 ploeg
+Abraham van Ventura
+4:5
+1 oud rustbank
+Jan Germershuijsen
+1:1
+4 cousijns
+Jan Smit Jurriaansz:
+7:�
+1 deurcousijn[s]
+Jochem Hiebner
+6:1
+1 deurcousijn[s]
+Jan Smit Jurriaansz:
+1:7
+2 cosijns
+Abraham van Ventura
+1:2
+1 parthij paarde tuijgen en romm:g
+Jan Germershuijsen
+�:6
+2 cosijns
+Jan Smit Jurriaansz:
+1:4
+2 cosijns
+Goris Middelkop
+�:7
+2 voorstellen en 1 agterstel
+Jan Prins
+1:1
+1 parthij houtwerk
+Lodewijk Figtener
+1:1
+1 oude kist en wat romm:g
+Joseph Elsing
+�:4
+1 voorstel en 1 agterstel
+Christoffel Broederik
+1:3
+1 balk en 1 stuk hout
+Jan Prins
+1:1
+1 onderstel van 1 wagen
+Christoffel Broderik
+3:3
+1 oude wagen tang
+Deowald Andreas
+�:4
+1 oude buijkplank en wat houtwerk
+Joseph Elsing
+�:4
+1 parthij houtwerk
+Pieter Voges
+1:1
+1 parthij rommeling
+Pieter Voges
+�:1
+1 parthij ijserwerk
+Deowald Andreas
+2:1
+1 bankschroef
+Marth:s L:s Smit
+4:2
+2 cajate balken
+Jan Prins
+4:6
+1 boor en 1 stuk hout
+d� E: Fischer
+�:7
+4 balken
+Jurgen Spengeler
+5:2
+2 balken
+Jan Prins
+4:6
+2 balken
+Jan Prins
+4:6
+1 pottebank
+Pieter Voges
+2:3
+1 parthij houtwerk
+Hendrik Herbst
+2:5
+1 parthij houtwerk
+Barth:s Schonk d� jonge
+�:4
+3 racken
+mons:r Schoester
+1:5
+4 racken
+Pieter Voges
+1:�
+5 raamen
+Jurgen Spengeler
+�:5
+2 glaase deuren
+Jurgen Spengeler
+2:6
+4 glaase raamen
+Jurgen Spengeler
+3:3
+1 parthij houtwerk
+Jan Smit Jurriaansz:
+�:2
+4 vengsters
+Jan Smook
+�:6
+2 deuren
+Lodedwijk Figtener
+1:3
+3 deuren
+Lodewijk Figtener
+1:1
+6 vengsters
+Jan Smit Jurriaansz:
+2:6
+1 parthij sparren
+Casper Lijbregt
+1:�
+8 stucken hout
+Cornelis de Waal
+3:6
+4 stucken hout
+Pieter Voges
+1:5
+1 parthij romm:g en 1 slijpsteen
+Albert Isacq
+1:3
+1 parthij houtwerk
+Casper Lijbrecht
+2:�
+1 parthij houtwerk
+Hendrik Herbst
+1:6
+1 parthij houtwerk
+Jan Redelinghuijs
+2:�
+3 cosijns
+Jochem Hiebner
+3:5
+3 blocken
+Hendrik Catenbrink
+2:�
+2 schragen
+Lodewijk Figtener
+�:2
+2 cosijns
+Jochem Hiebner
+�:5
+1 parthij houtwerk
+Hans Moor
+1:3
+2 banken en 1 pomp
+mons:r G:t Cruijwagen
+�:4
+2 wielen
+Jochem Riekheer
+1:2
+1 parthij wielen
+Pieter Voges
+�:4
+1 parthij wielen
+Pieter Voges
+�:5
+1 parthij wielen
+Deowald Andreas
+1:7
+1 caijate balk
+Ch:n Bremicke
+6:2
+1 caijate balk
+Ch:n Bremicke
+6:5
+1 caijate balk
+Ch:n Bremicke
+6:5
+1 kar
+Jurgen Spengeler
+6:�
+1 kar
+Cornelis de Waal
+3:3
+1 paarde wagen
+Christ:l Broderik
+5:1
+1 parthij dekriet
+Ad:n de Necker
+�:1
+1 parthij rommeling
+Jan Holst
+1:1
+1 hoedekast en wat romm:g
+Jan Redelinghuijs
+�:4
+1 mand met wat rommeling
+s:r Schols
+�:3
+1 stelletje
+Th:s Scheel
+�:6
+4 schilderijen
+Cornelis d� Waal
+2:�
+5 schilderijen
+Willem Wilken
+�:5
+8 schilderijen
+s:r Schols
+�:7
+1 parthij ijserwerk
+Marth:s L:s Smit
+4:5
+1 parthij ijserwerk
+Jochem Hiebner
+1:6
+1 parthij ijserwerk
+Jan Prins
+3:5
+1 parthij ijserwerk
+Deowald Andreas
+1:6
+1 parthij ijserwerk
+Pieter Voges
+�:4
+1 parthij ijserwerk
+Pieter Voges
+�:5
+1 parthij ijserwerk
+Jochem Hiebner
+�:6
+1 parthij rommeling
+s:r Schols
+�:5
+1 chiais beugel
+Mart:s L:s Smit
+1:4
+1 parthij rommeling
+Jan Kesselstad
+�:5
+1 rouper en 1 parthij flessen
+Jan Smit Jurriaansz:
+�:6
+1 mandje met wat romm:g
+Paulus Jansen
+�:4
+3 led:e halfaamen
+Pieter Rijnders
+2:6
+2 vaaten
+Nic:s Bas
+1:1
+1 vaat[en] en 1 hout tregter
+Godf:d Heijdenreich
+1:�
+1 vaat[en]
+Jan Germershuijsen
+1:7
+1 balij
+Hendrik Catenbrink
+4:2
+3 balij[s]
+Douwe Steijn
+�:7
+1 ijsere pot en 2 picken
+Jan Smit Jurriaansz:
+�:6
+1 parthij graaven
+Casper Wijvenbag
+�:7
+1 form tafel en romm:g
+Hendrik Coetsee
+�:3
+1 parthij thuijnsaaden
+Willem de Krieger
+1:1
+1 chiais kussen
+Godfried Haubtfleisch
+�:2
+1 tafel
+Paulus Janssen
+�:4
+2 sacken met 250 lb meel
+Willem Wilken
+4:1
+2 sacken met 250 lb meel
+Willem Wilken
+4:1
+2 sacken met 250 lb meel
+Pieter Voges
+4:2
+2 sacken met 250 lb meel
+Casper Wijvenbach
+4:1
+2 sacken met 250 lb meel
+Jan Redecker
+4:2
+2 sacken met 250 lb meel
+Nic:s Bas
+4:2
+2 sacken met 250 lb meel
+Adam Ziedel
+4:�
+2 sacken met 250 lb meel
+Casper Wijvenbag
+4:�
+2 sacken met 250 lb meel
+Christ:l Broderik
+4:2
+2 sacken met 250 lb meel
+Pieter Wijdeman
+4:1
+2 sacken met 250 lb meel
+d� E: Blanckenberg
+3:7
+2 sacken met meel
+Pieter Wijdeman
+4:2
+2 sacken met meel
+Jochem Hiebner
+4:2
+2 sacken met meel
+Hendrik Catenbrink
+4:4
+2 sacken met meel
+Jan Benicke
+2:�
+1 schaafbank
+Corn:s de Waal
+1:4
+1 schaafbank
+Hendrik Standaar
+3:1
+1 stinkhoute plank
+Matthijs van Eijsden
+5:5
+1 stinkhoute plank
+Daniel Krijnauw
+2:2
+1 parthij houtwerk
+Lodewijk Figtener
+�:4
+1 parthij houtwerk
+Daniel Krijnauw
+2:5
+9 boeken
+Abraham van Ventura
+5:�
+3 varkens
+Hendrik de Waal
+29:�
+1 parthij vloersteenen
+Willem de Kruger
+6:4
+2 schilderijen
+Jan Struijwig
+3:3
+1 scheepje
+Jan Smook
+�:5
+3 ophaal gordijnen
+mons:r Pieter Loret
+3:�
+1 cabinet
+s:r Brink
+20:1
+1 ledecant met zijn behangsel
+Hendrik Elswoud
+14:7
+1 tafel
+Carel Frik
+2:1
+1 rustbank
+Willem Pool
+1:�
+1 waterhalfaam en 1 emmer
+Hendrik Eckard
+1:7
+100 gerven garst
+Jan Smit v:n
+2:3
+1 parthij shilderijen
+s:r Van Sittert
+Traceback (most recent call last):
+  File "C:\Users\Gina\Documents\Master Thesis\Programming\Parser2.0\parser1.py", line 30, in <module>
+    print(cell)
+  File "C:\Users\Gina\AppData\Local\Programs\Python\Python37-32\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u215d' in position 35: character maps to <undefined>
+�:4
+2 schilderijen
+d� E: Fischer
+�:1
+2 schilderijen en 1 kroon
+Mattiam le Roes
+�:2
+11 stoelen
+David Jourdaan
+3:�
+1 oud ledicant
+Ferdinandus Appel
+1:5
+6 stoelen
+de wed:e De Waal
+6:4
+8 stoelen
+Jan le Roes de jonge
+6:2
+8 stoelen
+mons:r Schoester
+5:1
+1 tafel
+Jacob Bremicke
+�:4
+1 calbas met wijn
+d� E: Blanckenberg
+2:�
+1 calbas met wijn
+d� E: Blanckenberg
+2:5
+1 calbas met wijn
+s:r Schols
+1:2
+2 calbas[sen] met wijn
+mons:r H:k Gintsenberg
+2:5
+1 led:e kist
+Abraham Wannenburg
+5:3
+1 stuk vat
+d� E: Blanckenberg
+24:�
+1 parthij boeken
+Casper Wijvenbag
+�:1
+1 parthij boeken
+Tieleman Roos
+1:�
+6 boeken
+Hendrik de Waal
+2:5
+1 parthij boeken
+Michiel Berning
+�:4
+1 parthij boeken
+Hend:k Mijer van
+�:4
+1 parthij boeken
+Pieter Rijnders
+�:3
+1 parthij boeken
+Jan Smit Jurriaansz:
+�:2
+1 parthij boeken
+Hend:k Mijer van
+�:3
+1 parthij boeken
+Jan Smit Jurriaansz:
+1:1
+1 parthij boeken
+Christ:l Luster
+1:3
+9 boeken in soort
+mons:r De Leeuw
+5:�
+9 boeken in soort
+Jacob Kamp
+�:6
+1 parthij boeken in soort
+Christ:n Bremicke
+�:5
+1 parthij boeken in soort
+Pieter Wijdeman
+�:5
+4 boeken
+Jan Smit Jurriaansz:
+2:3
+1 parthij boeken
+Casper Wijvenbach
+�:3
+1 parthij boeken
+Michiel Berning
+�:5
+1 parthij boeken
+s:r Pet:s de Wit
+�:6
+1 parthij boeken
+Casper Wijvenbach
+�:3
+1 parthij boeken
+Casper Wijvenbach
+�:3
+1 parthij boeken
+Douwe Steijn
+�:4
+1 parthij boeken
+Jan IJsel
+�:3
+1 parthij boeken
+Casper Wijvenbach
+�:3
+1 parthij boeken
+mons:r Sparenberg
+�:4
+1 parthij boeken
+Casper Wijvenbach
+�:7
+1 parthij boeken
+Douwe Steijn
+�:3
+1 parthij boeken
+mons:r Sparenberg
+�:6
+1 parthij boeken
+Michiel Berning
+�:2
+1 parthij boeken
+Hans Moor
+�:3
+1 parthij boeken
+Jacob Kamp
+1:�
+1 parthij boeken
+d� E: Blanckenberg
+�:4
+1 parthij printen
+Jan Smit Jurriaansz:
+1:1
+1 slave jonge gen:t
+Andries Smit
+129:�
+1 slave jonge gen:t
+s:r Brink
+131:�
+1 slave jonge gen:t
+Hendrik de Waal
+61:�
+1 slave jonge gen:t
+Dirk de Jong
+351:�
+1 slave jonge gen:t
+Jan Smit Jurriaansz:
+184:1
+1 slave jonge gen:t
+Jurgen Spengelaar
+233:3
+1 slave jonge gen:t
+Jurgen Spengeler
+162:�
+1 slave jonge gen:t
+Cornelis de Waal
+500:�
+1 slave jonge gen:t
+Jan Munnik
+142:�
+1 slave jonge gen:t
+Jurgen Spengeler
+180:�
+1 slave jonge gen:t
+mons:r Joh:s Louw Pietersz:
+130:�
+1 slave jonge gen:t
+Jacob Doeksteen
+121:�
+1 slave jonge gen:t
+Willem Wilken
+121:�
+1 slave jonge gen:t
+Hendrik de Waal
+140:�
+1 slave jonge gen:t
+P:r van d:r Merve W:msz:
+101:�
+1 slave jonge gen:t
+d� wed:e D� Waal
+100:1
+1 slave jonge gen:t
+Willem Wilken
+80:2
+1 slave jonge gen:t
+Hendrik Eckard
+171:�
+1 slave jonge gen:t
+mons:r Gerr:t Cruijwagen
+266:7
+1 slave jonge gen:t
+s:r Van Sittert
+101:�
+1 slave jonge gen:t
+Hendrik Eckard
+160:�
+1 slave jonge gen:t
+s:r Joh:s Blanckenberg
+160:1
+1 slave jonge gen:t
+Jacob de Villiers Abrah:msz:
+134:4
+1 slave jonge gen:t
+d� E: Blanckenberg
+175:�
+1 slave jonge gen:t
+d� E: Blanckenberg
+81:2
+1 slavin gen:t
+Dirk de Jong
+106:�
+1 slavin gen:t
+mons:r De Leeuw
+75:�
+1 spiegel
+d� heer Van der Spuij
+33:7
+1 spiegel
+Joh:s Smuts
+32:1
+2 schilderijen
+s:r Westerhoff
+4:5
+3 schilderijen
+d� E: Blanckenberg
+4:�
+2 schilderijen
+Joh:s Smuts
+�:5
+4 ophaal gordijnen
+Marten Baartman
+6:3
+3 chassenetten
+mons:r Ger:t Cruijwagen
+7:7
+88 led:e bottels
+Carel Praag
+3:1
+6 stoelen
+Joh:s Rauch
+7:�
+6 stoelen
+Jan Willem Hurter
+9:2
+6 stoelen
+Godfried Haubtfleisch
+5:1
+2 leuning stoelen
+Pieter Keeve
+9:�
+1 kist met timmermans gereedschap
+Coenraad Braun
+4:1
+1 vierkante tafel
+d� wed: De Waal
+1:6
+1 opslag tafel
+Jan Vermeulen
+2:3
+1 opslag tafel
+Joh:s Rauch
+1:4
+1 tafeltje
+Joseph Wolmerands
+1:2
+1 rustbank met zijn mattras
+Hend:k d� Waal
+10:�
+12 stoel kussens
+Nic:s Springer
+4:2
+1 ijsere port met zijn deksel
+d� wed:e De Waal
+�:6
+12 messen en 6 vorken
+Pieter Broeders
+3:�
+1 ijsere ell
+Marten Baartman
+1:�
+1 metale pot
+d� E: Fischer
+3:5
+1 harsvanger met zijn port d� ep�es
+d� E: Blanckenberg
+5:6
+1 silvere sijdgeweer
+mons:r Heijning
+11:3
+1 rotting met 1 silv:e knop
+mons:r Th:s Theron
+2:6
+[Finished in 0.998s]
